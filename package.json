@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Statcomm/Express-Taks-1#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "mongoose-slug-plugin": "^2.1.0"
   }
 }
